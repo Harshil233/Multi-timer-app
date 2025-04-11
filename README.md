@@ -1,6 +1,6 @@
 # 🕒 Multi-Timer App
 
-A minimal, no-CSS-library timer application where users can create, manage, and interact with multiple customizable timers grouped by categories. Built with React and Vite.
+A minimal, multi timer application where users can create, manage, and interact with multiple customizable timers grouped by categories. Built with React and Vite.
 
 ## ✨ Features
 
