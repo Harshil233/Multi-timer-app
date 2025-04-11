@@ -30,6 +30,7 @@ A minimal, multi timer application where users can create, manage, and interact 
 
 ```bash
 git clone https://github.com/Harshil233/Multi-timer-app.git
+cd Multi-timer-app
 ```
 
 2. **Install dependencies**
